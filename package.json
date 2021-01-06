@@ -10,7 +10,7 @@
     "build": "set VUE_APP_MODE=alpha&& vue-cli-service build && set VUE_APP_MODE=pro&& vue-cli-service build"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "core-js": "^2.6.5",
     "cssnano": "^4.1.10",
     "glob": "^7.1.6",
